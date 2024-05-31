@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411171160301",
+    "project_id": "projektodo-89024",
+    "storage_bucket": "projektodo-89024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411171160301:android:f0b59b52097101e11c0ce4",
+        "android_client_info": {
+          "package_name": "com.example.projektodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJzxItnadkb8uASWs_f-TdBv8XqxW6Gpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
